@@ -30,13 +30,14 @@ pip install shodan
 
 相關疑問或是想看官方範例,可以查看以下連結:
 https://github.com/achillean/shodan-python
-
+<br/>
 
 可選功能
 ---
 -h 針對單個主機進行搜尋
+<br/>
 -s 針對你想搜尋的語法搜尋(Ex:server="apache")
-
+<br/>
 
 使用範例
 ---
@@ -45,9 +46,10 @@ https://github.com/achillean/shodan-python
 python2 shodan2_0.py -h test
 ```
 
-1.請把搜尋的內容打在test,目前只支持讀取單行。
+<br/>1.請把搜尋的內容打在test,目前只支持讀取單行。
+<br/>
 2.test 可隨意更換檔案名稱,並不影響程式執行。
-
+<br/>
 
 ## 範例截圖
 
